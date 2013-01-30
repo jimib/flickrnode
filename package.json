@@ -1,0 +1,11 @@
+{
+  "name": "flickrnode",
+  "author" : "ciaranj"
+  "version": "0.0.1",
+  "private": true,
+  "description" : "Originally written by CiaranJ. Forked by Jimib to add package.json to allow installation through npm",
+  "scripts": {
+  },
+  "dependencies": {
+  }
+}
